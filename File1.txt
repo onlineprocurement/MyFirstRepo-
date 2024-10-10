@@ -1,2 +1,4 @@
 Adding this change on the main branch
 Adding this change on the conflict branchAdding this change on the dev branch -- what a sweet new feature
+Adding this change on the conflict branchFixing an issue on the main branch
+Adding even more sweet new stuff to Dev branch
